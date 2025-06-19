@@ -1,4 +1,4 @@
-🩺 Disease Prediction Model using Machine Learning
+e🩺 Disease Prediction Model using Machine Learning
 
 A machine learning-based web application that predicts possible diseases based on user-input symptoms. The goal is to assist in early diagnosis and healthcare awareness by leveraging data science and AI.
 
